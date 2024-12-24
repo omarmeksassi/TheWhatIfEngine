@@ -73,4 +73,4 @@ We welcome contributions from the community! Please fork the repository, make yo
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Contact
-For questions or support, reach out to [team@thewhatif.org](mailto:team@thewhatif.org).
+For questions or support, reach out to [contact@thewhatif.org](mailto:contact@thewhatif.org).
