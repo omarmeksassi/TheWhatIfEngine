@@ -1,0 +1,5 @@
+fastapi
+sqlalchemy
+transformers
+uvicorn
+pydantic
